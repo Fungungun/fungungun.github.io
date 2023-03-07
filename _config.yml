@@ -10,7 +10,7 @@ locale                   : "en-AU"
 title                    : "Chenghuan Liu"
 title_separator          : "-"
 name                     : &name "Chenghuan Liu"
-description              : &description "Ph.D Candidate @ University of Western Australia"
+# description              : &description "Ph.D Candidate @ University of Western Australia"
 url                      : https://fungungun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fungungun/fungungun.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chenghuan Liu"
   avatar           : "meme.jpg"
-  bio              : "Ph.D Candidate"
+#   bio              : "Ph.D Candidate"
   location         : "Perth WA"
   employer         :
   pubmed           : 
